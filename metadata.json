@@ -1,0 +1,5 @@
+{
+  "name": "SepsisGuard AI",
+  "description": "AI-powered early sepsis risk monitoring platform for home wearable data analysis.",
+  "requestFramePermissions": []
+}
